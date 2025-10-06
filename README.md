@@ -1,16 +1,13 @@
-## Hi there 👋
-
-<!--
-**sinatpt/sinatpt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi 👋, I'm Sina
+- This is my life
+## 👤 About me
+- 🌍 I'm from Iran and I live in Yazd
+- 📚 I'm learning coding
+- 🌠 My hobby is coding
+## 🛠️ Skills
+- 💻 Programing Lnguages: Python, C#
+- 🎮 Game Engines: Unity, Unreal Engine
+- 🔧 Tools: Git, Asset Store, Visual Studio
+## 📫 Contact Me
+- 💬 Email: 
+- 💬 Telegram: [My Telegram Account](https://t.me/sinatpt)
